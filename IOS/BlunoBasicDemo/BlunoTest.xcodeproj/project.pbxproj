@@ -255,7 +255,7 @@
 				ORGANIZATIONNAME = DFRobot;
 				TargetAttributes = {
 					52D0198F184AD54700FFEFC4 = {
-						DevelopmentTeam = 7ALKBE5TF4;
+						DevelopmentTeam = 69K5FUX4KS;
 					};
 					52D019B0184AD54700FFEFC4 = {
 						TestTargetID = 52D0198F184AD54700FFEFC4;
@@ -445,6 +445,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 69K5FUX4KS;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BlunoTest/BlunoTest-Prefix.pch";
 				INFOPLIST_FILE = "BlunoTest/BlunoTest-Info.plist";
@@ -461,6 +462,7 @@
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				DEVELOPMENT_TEAM = 69K5FUX4KS;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "BlunoTest/BlunoTest-Prefix.pch";
 				INFOPLIST_FILE = "BlunoTest/BlunoTest-Info.plist";
